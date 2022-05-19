@@ -1,7 +1,7 @@
 ## Hi there 👋
 * My name is Vika!:cherry_blossom:
 
-* I'm junior QA Engineern, searching for a job now.
+* I'm junior QA Engineern, searching for a job now
 
 * Сurrently in St. Petersburg 
 
