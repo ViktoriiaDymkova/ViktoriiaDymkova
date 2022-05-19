@@ -11,10 +11,20 @@
 ---
 Technology stack
 
+<img width="10%" title="IntelliJ IDEA" src="logo/steck/Intelij_IDEA.svg">
+<img width="10%" title="Allure_Report.svg" src="logo/steck/Allure_Report.svg">
+<img width="10%" title="GitHub.svg" src="logo/steck/GitHub.svg">
+<img width="10%" title="Gradle.svg" src="logo/steck/Gradle.svg">
+<img width="10%" title="Java.svg" src="logo/steck/Java.svg">
+<img width="10%" title="Jenkins.svg" src="logo/steck/Jenkins.svg">
+<img width="10%" title="JUnit5.svg" src="logo/steck/JUnit5.svg">
+<img width="10%" title="Selenide.svg" src="logo/steck/Selenide.svg">
+<img width="10%" title="Selenoid.svg" src="logo/steck/Selenoid.svg">
+
 
 My education experience
 
-logo |[qa.guru](https://qa.guru)|Automation QA Engineer (2022)  |
-|----|--------------------------|-------------------------------|
-logo |[Mining University](https://www.spmi.ru/)|Logistics and management in transport(2015)|
+| <img width="20%" title="QAGuru.png" src="logo/study/QAGuru.png">|[qa.guru](https://qa.guru)|Automation QA Engineer (2022)  |
+|--|--------------------------|-------------------------------|
+ | <img width="20%" title="горный.jpeg" src="logo/study/горный.jpeg">|[Mining University](https://www.spmi.ru/)|Logistics and management in transport(2015)|
 
