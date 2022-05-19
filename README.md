@@ -1,5 +1,5 @@
-### Hi there 👋
-:cherry_blossom: My name is Vika!
+## Hi there 👋
+* My name is Vika!:cherry_blossom:
 
 * I'm junior QA Engineern, searching for a job now.
 
@@ -9,15 +9,17 @@
 
 * English - B1 
 ---
-## Technology stack
+### Technology stack
 
 <img width="6%" title="IntelliJ IDEA" src="logo/steck/Intelij_IDEA.svg"><img width="6%" title="Allure_Report.svg" src="logo/steck/Allure_Report.svg"><img width="6%" title="GitHub.svg" src="logo/steck/GitHub.svg"><img width="6%" title="Gradle.svg" src="logo/steck/Gradle.svg">
 <img width="6%" title="Java.svg" src="logo/steck/Java.svg"><img width="6%" title="Jenkins.svg" src="logo/steck/Jenkins.svg"><img width="6%" title="JUnit5.svg" src="logo/steck/JUnit5.svg"><img width="6%" title="Selenide.svg" src="logo/steck/Selenide.svg"><img width="6%" title="Selenoid.svg" src="logo/steck/Selenoid.svg">
 
 
-## My education experience
+### My education experience
 
-|<img width="20%" title="QAGuru.png" src="logo/study/QAGuru.png">|[qa.guru](https://qa.guru)|Automation QA Engineer (2022)  |
-||--------------------------|-------------------------------|
-|<img width="20%" title="горный.jpeg" src="logo/study/горный.jpeg">|[Mining University](https://www.spmi.ru/)|Logistics and management in transport(2015)|
+|<img width="30%" title="QAGuru.png" src="logo/study/QAGuru.png">|[qa.guru](https://qa.guru)|Automation QA Engineer (2022)|
+|:-|:-|:-|
+|<img width="25%" title="горный.jpeg" src="logo/study/горный.jpeg">|[Mining University](https://www.spmi.ru/)|Logistics and management in transport(2015)|
 
+
+[![ViktoriiaDymkova's GitHub stats](https://github-readme-stats.vercel.app/api?username=ViktoriiaDymkova)](https://github.com/anuraghazra/github-readme-stats)
