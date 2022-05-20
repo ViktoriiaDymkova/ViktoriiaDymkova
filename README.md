@@ -18,9 +18,9 @@
 
 ### My education experience
 
-|<img width="30%" title="QAGuru.png" src="logo/study/QAGuru.png">|[qa.guru](https://qa.guru)|Automation QA Engineer (2022)|
-|:-|:--|:--|
-|<img width="25%" title="горный.jpeg" src="logo/study/горный.jpeg">|[Mining University](https://www.spmi.ru/)|Logistics and management in transport(2015)|
+|<img width="30%" title="QAGuru.png" src="logo/study/QAGuru.png">|[qa.guru](https://qa.guru)| Automation QA Engineer (2022)|
+|:-|:-|:-|
+|<img width="25%" title="горный.jpeg" src="logo/study/горный.jpeg">|[Mining University](https://www.spmi.ru/)| Logistics and management in transport(2015)|
 
 
 [![ViktoriiaDymkova's GitHub stats](https://github-readme-stats.vercel.app/api?username=ViktoriiaDymkova)](https://github.com/anuraghazra/github-readme-stats)
